@@ -1,5 +1,5 @@
 # Pricing-Cards - Static
-I tried to reproduce the picture bellow using HTML / CSS
+I tried to reproduce the picture bellow using HTML / CSS   
 Static page, no button/hover effect
 
 # Result : 
